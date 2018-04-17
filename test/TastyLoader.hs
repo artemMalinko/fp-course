@@ -19,7 +19,7 @@ tests :: TestTree
 tests =
   testGroup "Tests" [
     test_Optional
---   , test_List
+  , test_List
 --   , test_Functor
 --   , test_Applicative
 --   , test_Monad
