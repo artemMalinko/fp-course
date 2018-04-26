@@ -22,7 +22,7 @@ tests =
   , test_List
   , test_Functor
   , test_Applicative
---   , test_Monad
+  , test_Monad
 --   , test_State
 --   , test_StateT
 --   , test_Validation
